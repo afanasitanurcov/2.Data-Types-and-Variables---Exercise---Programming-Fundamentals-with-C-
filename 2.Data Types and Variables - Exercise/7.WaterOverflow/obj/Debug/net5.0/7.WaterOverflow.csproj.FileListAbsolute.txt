@@ -1,0 +1,16 @@
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\7.WaterOverflow\bin\Debug\net5.0\7.WaterOverflow.exe
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\7.WaterOverflow\bin\Debug\net5.0\7.WaterOverflow.deps.json
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\7.WaterOverflow\bin\Debug\net5.0\7.WaterOverflow.runtimeconfig.json
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\7.WaterOverflow\bin\Debug\net5.0\7.WaterOverflow.runtimeconfig.dev.json
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\7.WaterOverflow\bin\Debug\net5.0\7.WaterOverflow.dll
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\7.WaterOverflow\bin\Debug\net5.0\7.WaterOverflow.pdb
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\7.WaterOverflow\obj\Debug\net5.0\7.WaterOverflow.csproj.AssemblyReference.cache
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\7.WaterOverflow\obj\Debug\net5.0\7.WaterOverflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\7.WaterOverflow\obj\Debug\net5.0\7.WaterOverflow.AssemblyInfoInputs.cache
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\7.WaterOverflow\obj\Debug\net5.0\7.WaterOverflow.AssemblyInfo.cs
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\7.WaterOverflow\obj\Debug\net5.0\7.WaterOverflow.csproj.CoreCompileInputs.cache
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\7.WaterOverflow\obj\Debug\net5.0\7.WaterOverflow.dll
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\7.WaterOverflow\obj\Debug\net5.0\refint\7.WaterOverflow.dll
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\7.WaterOverflow\obj\Debug\net5.0\7.WaterOverflow.pdb
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\7.WaterOverflow\obj\Debug\net5.0\7.WaterOverflow.genruntimeconfig.cache
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\7.WaterOverflow\obj\Debug\net5.0\ref\7.WaterOverflow.dll

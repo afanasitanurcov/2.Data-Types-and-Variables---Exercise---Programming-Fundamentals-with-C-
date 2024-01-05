@@ -1,0 +1,16 @@
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\03.Elevator\bin\Debug\net5.0\03.Elevator.exe
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\03.Elevator\bin\Debug\net5.0\03.Elevator.deps.json
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\03.Elevator\bin\Debug\net5.0\03.Elevator.runtimeconfig.json
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\03.Elevator\bin\Debug\net5.0\03.Elevator.runtimeconfig.dev.json
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\03.Elevator\bin\Debug\net5.0\03.Elevator.dll
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\03.Elevator\bin\Debug\net5.0\03.Elevator.pdb
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\03.Elevator\obj\Debug\net5.0\03.Elevator.csproj.AssemblyReference.cache
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\03.Elevator\obj\Debug\net5.0\03.Elevator.GeneratedMSBuildEditorConfig.editorconfig
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\03.Elevator\obj\Debug\net5.0\03.Elevator.AssemblyInfoInputs.cache
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\03.Elevator\obj\Debug\net5.0\03.Elevator.AssemblyInfo.cs
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\03.Elevator\obj\Debug\net5.0\03.Elevator.csproj.CoreCompileInputs.cache
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\03.Elevator\obj\Debug\net5.0\03.Elevator.dll
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\03.Elevator\obj\Debug\net5.0\refint\03.Elevator.dll
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\03.Elevator\obj\Debug\net5.0\03.Elevator.pdb
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\03.Elevator\obj\Debug\net5.0\03.Elevator.genruntimeconfig.cache
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\03.Elevator\obj\Debug\net5.0\ref\03.Elevator.dll

@@ -1,0 +1,16 @@
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\02.SumDigits\bin\Debug\net5.0\02.SumDigits.exe
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\02.SumDigits\bin\Debug\net5.0\02.SumDigits.deps.json
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\02.SumDigits\bin\Debug\net5.0\02.SumDigits.runtimeconfig.json
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\02.SumDigits\bin\Debug\net5.0\02.SumDigits.runtimeconfig.dev.json
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\02.SumDigits\bin\Debug\net5.0\02.SumDigits.dll
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\02.SumDigits\bin\Debug\net5.0\02.SumDigits.pdb
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\02.SumDigits\obj\Debug\net5.0\02.SumDigits.csproj.AssemblyReference.cache
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\02.SumDigits\obj\Debug\net5.0\02.SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\02.SumDigits\obj\Debug\net5.0\02.SumDigits.AssemblyInfoInputs.cache
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\02.SumDigits\obj\Debug\net5.0\02.SumDigits.AssemblyInfo.cs
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\02.SumDigits\obj\Debug\net5.0\02.SumDigits.csproj.CoreCompileInputs.cache
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\02.SumDigits\obj\Debug\net5.0\02.SumDigits.dll
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\02.SumDigits\obj\Debug\net5.0\refint\02.SumDigits.dll
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\02.SumDigits\obj\Debug\net5.0\02.SumDigits.pdb
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\02.SumDigits\obj\Debug\net5.0\02.SumDigits.genruntimeconfig.cache
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\02.SumDigits\obj\Debug\net5.0\ref\02.SumDigits.dll

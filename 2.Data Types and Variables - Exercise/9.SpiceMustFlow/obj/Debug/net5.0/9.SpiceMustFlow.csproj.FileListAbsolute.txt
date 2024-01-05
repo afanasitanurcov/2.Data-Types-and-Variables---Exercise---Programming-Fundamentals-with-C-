@@ -1,0 +1,16 @@
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\9.SpiceMustFlow\bin\Debug\net5.0\9.SpiceMustFlow.exe
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\9.SpiceMustFlow\bin\Debug\net5.0\9.SpiceMustFlow.deps.json
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\9.SpiceMustFlow\bin\Debug\net5.0\9.SpiceMustFlow.runtimeconfig.json
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\9.SpiceMustFlow\bin\Debug\net5.0\9.SpiceMustFlow.runtimeconfig.dev.json
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\9.SpiceMustFlow\bin\Debug\net5.0\9.SpiceMustFlow.dll
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\9.SpiceMustFlow\bin\Debug\net5.0\9.SpiceMustFlow.pdb
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\9.SpiceMustFlow\obj\Debug\net5.0\9.SpiceMustFlow.csproj.AssemblyReference.cache
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\9.SpiceMustFlow\obj\Debug\net5.0\9.SpiceMustFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\9.SpiceMustFlow\obj\Debug\net5.0\9.SpiceMustFlow.AssemblyInfoInputs.cache
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\9.SpiceMustFlow\obj\Debug\net5.0\9.SpiceMustFlow.AssemblyInfo.cs
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\9.SpiceMustFlow\obj\Debug\net5.0\9.SpiceMustFlow.csproj.CoreCompileInputs.cache
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\9.SpiceMustFlow\obj\Debug\net5.0\9.SpiceMustFlow.dll
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\9.SpiceMustFlow\obj\Debug\net5.0\refint\9.SpiceMustFlow.dll
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\9.SpiceMustFlow\obj\Debug\net5.0\9.SpiceMustFlow.pdb
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\9.SpiceMustFlow\obj\Debug\net5.0\9.SpiceMustFlow.genruntimeconfig.cache
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\9.SpiceMustFlow\obj\Debug\net5.0\ref\9.SpiceMustFlow.dll

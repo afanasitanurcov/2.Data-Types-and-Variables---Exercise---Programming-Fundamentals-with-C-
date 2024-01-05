@@ -1,0 +1,16 @@
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\04.SumOfChars\bin\Debug\net5.0\04.SumOfChars.exe
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\04.SumOfChars\bin\Debug\net5.0\04.SumOfChars.deps.json
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\04.SumOfChars\bin\Debug\net5.0\04.SumOfChars.runtimeconfig.json
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\04.SumOfChars\bin\Debug\net5.0\04.SumOfChars.runtimeconfig.dev.json
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\04.SumOfChars\bin\Debug\net5.0\04.SumOfChars.dll
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\04.SumOfChars\bin\Debug\net5.0\04.SumOfChars.pdb
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\04.SumOfChars\obj\Debug\net5.0\04.SumOfChars.csproj.AssemblyReference.cache
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\04.SumOfChars\obj\Debug\net5.0\04.SumOfChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\04.SumOfChars\obj\Debug\net5.0\04.SumOfChars.AssemblyInfoInputs.cache
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\04.SumOfChars\obj\Debug\net5.0\04.SumOfChars.AssemblyInfo.cs
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\04.SumOfChars\obj\Debug\net5.0\04.SumOfChars.csproj.CoreCompileInputs.cache
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\04.SumOfChars\obj\Debug\net5.0\04.SumOfChars.dll
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\04.SumOfChars\obj\Debug\net5.0\refint\04.SumOfChars.dll
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\04.SumOfChars\obj\Debug\net5.0\04.SumOfChars.pdb
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\04.SumOfChars\obj\Debug\net5.0\04.SumOfChars.genruntimeconfig.cache
+C:\progr\fundamentalмай\2. Data Types and Variables - Exercise\04.SumOfChars\obj\Debug\net5.0\ref\04.SumOfChars.dll
